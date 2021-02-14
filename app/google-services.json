@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "181385217970",
+    "project_id": "kend-445e6",
+    "storage_bucket": "kend-445e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181385217970:android:3f81caf524eb57c6b786ab",
+        "android_client_info": {
+          "package_name": "com.ok.kend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181385217970-nj3uthksqif16at5brpt54adusgei145.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAwwG1Jre1SKO3EIofnA2IaUmtGq297IA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181385217970-nj3uthksqif16at5brpt54adusgei145.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
